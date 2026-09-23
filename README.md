@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Muhammad Anas Khan Farooq 👋
 
-<!--
-**MuhammadAnasKhanFarooq/MuhammadAnasKhanFarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BS Information Technology student focused on building practical skills in software development, databases, computer networks, Linux, and information security.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- HTML & CSS
+- SQL
+- Git & GitHub
+- Linux
+- Cisco Packet Tracer
+
+## 📚 Currently Learning
+
+- Database Management Systems
+- Computer Networks
+- Linux
+- Information Security
+
+## 🚀 Projects
+
+### Quiz Management System
+A C++ academic project developed using Object-Oriented Programming concepts.
+
+### Mobile Management System
+An academic desktop application developed during my early semesters.
+
+## 🎯 Current Goals
+
+- Build stronger real-world IT projects
+- Improve networking and Linux skills
+- Develop a professional software and IT portfolio
+- Gain practical industry experience
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/muhammadanaskhanfarooq)
