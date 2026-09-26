@@ -28,7 +28,7 @@ I use academic projects and hands-on experimentation to build experience with di
 ## 🚀 Selected Projects
 
 ### Dahua Attendance Management System
-An AI-assisted internship learning project exploring a React frontend, ASP.NET Core backend, SQL Server, authentication, face-enrollment workflows, and Dahua attendance-device integration.
+An internship learning project exploring a React frontend, ASP.NET Core backend, SQL Server, authentication, face-enrollment workflows, and Dahua attendance-device integration
 
 ### 0/1 Knapsack using Dynamic Programming
 A C++ Design and Analysis of Algorithms project implementing the 0/1 Knapsack Problem with complexity and performance analysis.
